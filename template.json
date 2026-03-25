@@ -1,4 +1,10 @@
 {
-  "top": "<div>TOP</div>",
-  "bottom": "<div>BOTTOM</div>"
+  "kanto": {
+    "top": "<div>KANTO TOP</div>",
+    "bottom": "<div>KANTO BOTTOM</div>"
+  },
+  "kansai": {
+    "top": "<div>KANSAI TOP</div>",
+    "bottom": "<div>KANSAI BOTTOM</div>"
+  }
 }
